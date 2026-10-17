@@ -1,0 +1,7 @@
+game_id,date,player,minutes_played,home_away,position
+G1,2026-09-01,Alex,20,H,Forward
+G1,2026-09-01,Sam,20,H,Defender
+G2,2026-09-08,Alex,20,A,Defender
+G2,2026-09-08,Sam,20,A,Forward
+G3,2026-09-15,Alex,20,H,Forward
+G3,2026-09-15,Sam,20,H,Defender

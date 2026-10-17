@@ -1,0 +1,6 @@
+{
+  "bench_percent": 75,
+  "bench_games": 3,
+  "max_roster_variance": 100,
+  "max_home_away_imbalance_percent": 50
+}
